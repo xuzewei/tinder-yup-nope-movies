@@ -1,0 +1,24 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "expo": "^27.0.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-extended-stylesheet": "^0.3.1",
+    "react-native-router-flux": "^3.39.1",
+    "react-native-swipe-cards": "^0.1.0",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "redux-persist": "^4.0.1",
+    "redux-promise-middleware": "^4.2.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-equimper": "^2.2.2",
+    "redux-logger": "^3.0.6"
+  }
+}
